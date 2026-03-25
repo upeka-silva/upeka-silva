@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">i'm currently working at arrogance technology as associate software engineer <br>💬 Ask me about Java, javascript,AWS ,CI/CD etc <br>🏫Reading Master of Computer Science at Univerity Of Colombo<br>📫 To email me upekasilva2000@gmail.com<br>⚡ Fun fact  The term "full stack software Engineer " is like being the DJ of coding, mixing both frontend and backend tracks to create harmonious web experiences!</p>
+<p align="left">i'm currently working at arrogance technology as a Associate Software Engineer <br>💬 Ask me about Java,Python,linux ,javascript,AWS ,CI/CD etc <br>🏫Reading Master of Computer Science at Univerity Of Colombo<br>📫 To email me upekasilva2000@gmail.com<br>⚡ Fun fact  The term "full stack software Engineer " is like being the DJ of coding, mixing both frontend and backend tracks to create harmonious web experiences!</p>
 
 ###
 

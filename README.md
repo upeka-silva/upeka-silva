@@ -1,4 +1,4 @@
- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=430&height=90&lines=Hi%F0%9F%91%8B%2C+I'm+Pasindu+Upeka" alt="Typing SVG" /></a></h1>                  
+ <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=430&height=90&lines=Hi%F0%9F%91%8B%2C+I'm+Pasindu+Silva" alt="Typing SVG" /></a></h1>                  
 
 ###
 

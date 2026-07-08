@@ -8,9 +8,7 @@
 <br clear="both">
 
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/upeka-nerd/count.svg?"  />
-</div>
+
 
 ###
 

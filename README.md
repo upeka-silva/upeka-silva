@@ -1,122 +1,149 @@
- <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=430&height=90&lines=Hi%F0%9F%91%8B%2C+I'm+Pasindu+Silva" alt="Typing SVG" /></a></h1>                  
-
-###
-
-<p align="center">coding enthusiast,maverick in the making💻</p>
-
-
-<br clear="both">
-
-
-
-
-###
-
-<p align="left">i'm currently working at arrogance technology as a Associate Software Engineer <br>💬 Ask me about Java,Python,linux ,javascript,AWS ,CI/CD etc <br>🏫Reading Master of Computer Science at Univerity Of Colombo<br>📫 To email me upekasilva2000@gmail.com<br>⚡ Fun fact  The term "full stack software Engineer " is like being the DJ of coding, mixing both frontend and backend tracks to create harmonious web experiences!</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pasindu-upeka-661915212/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/PasinduUpeka?t=kX-y6PsUBGiP-KadXD-dsQ&s=09" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <a href="user:16467255" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left">Languages and Tools:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-<hr/>
-
-###
 <div align="center">
-<a href="https://git.io/streak-stats">
- 
- 
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=upeka-silva&theme=dark&card_width=360)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=upeka-silva&show_icons=true&theme=transparent)
-
-</a>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=upeka-silva&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <hr/>
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=upeka-silva&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=780&height=90&lines=Hi%2C+I'm+Pasindu+Silva;Associate+Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Learner;Building+clean%2C+scalable+software" alt="Typing SVG" />
+  </a>
 </div>
 
+<h3 align="center">Software Engineer focused on modern web platforms, backend systems, cloud engineering, and continuous delivery.</h3>
 
-<hr/>
+<p align="center">
+  <a href="mailto:upekasilva2000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-upekasilva2000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/pasindu-upeka-661915212/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pasindu%20Upeka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/PasinduUpeka?t=kX-y6PsUBGiP-KadXD-dsQ&s=09">
+    <img src="https://img.shields.io/badge/X-PasinduUpeka-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-<br/>
+---
+
+## About Me
+
+I am an Associate Software Engineer at Arrogance Technology and a Master of Computer Science student at the University of Colombo. I enjoy turning business requirements into reliable software by combining backend engineering, frontend development, databases, cloud platforms, automation, and clean delivery practices.
+
+I am continuously improving as a full-stack engineer and building a profile that reflects practical software engineering, problem solving, and readiness for new opportunities.
+
+- Current role: Associate Software Engineer
+- Current studies: Master of Computer Science, University of Colombo
+- Core interests: Full-stack development, API design, cloud engineering, DevOps, automation, and software quality
+- Career focus: Building maintainable systems that are easy to scale, test, and operate
+- Contact: [upekasilva2000@gmail.com](mailto:upekasilva2000@gmail.com)
+
+---
+
+## Engineering Value I Bring
+
+```text
+Backend thinking    -> Java, Spring Boot, Node.js, Python, APIs, databases
+Frontend delivery   -> React, JavaScript, HTML, CSS, Bootstrap, responsive UI
+Cloud mindset       -> AWS, Google Cloud, Docker, Linux, CI/CD workflows
+Quality focus       -> Git, testing awareness, Selenium, clean code practices
+Growth attitude     -> Fast learner, consistent builder, team-focused engineer
+```
+
+---
+
+## Technology Toolbox
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="42" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=js" height="42" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=c" height="42" alt="C" />
+</p>
+
+### Backend, Frontend & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="Spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react" height="42" alt="React" />
+  <img src="https://skillicons.dev/icons?i=html" height="42" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" height="42" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="42" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="42" alt="jQuery" />
+</p>
+
+### Databases, Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" height="42" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=aws" height="42" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="42" alt="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=docker" height="42" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=linux" height="42" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=git" height="42" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="42" alt="GitHub Actions" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=idea" height="42" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="42" alt="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="42" alt="Selenium" />
+</p>
+
+---
+
+## What I Am Building Toward
+
+- Designing clean REST APIs and backend services with Java, Spring Boot, Node.js, and Python
+- Creating responsive user interfaces with React and modern JavaScript
+- Working with relational and NoSQL databases including MySQL, PostgreSQL, and MongoDB
+- Improving cloud and DevOps practices with AWS, Google Cloud, Docker, Linux, and CI/CD
+- Strengthening testing, automation, documentation, and production-readiness habits
+
+---
+
+## GitHub Highlights
 
 <div align="center">
-<a href='[https://ko-fi.com/V7V4RAK9C](https://ko-fi.com/pasinduupeka#paypalModal)' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=upeka-silva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pasindu Silva GitHub stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=upeka-silva&theme=tokyonight&hide_border=true" alt="Pasindu Silva GitHub streak" />
 </div>
 
-<br/>
+<div align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=upeka-silva&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+</div>
 
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=upeka-silva&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+  </a>
+</div>
 
+---
 
+## Contribution Graph
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
+---
 
-###
+## Let's Connect
 
+I am open to learning, collaboration, and software engineering opportunities where I can contribute to real products, grow with strong teams, and build reliable systems.
 
-###
+<p align="center">
+  <a href="mailto:upekasilva2000@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/pasindu-upeka-661915212/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</p>

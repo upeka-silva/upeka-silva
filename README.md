@@ -107,27 +107,54 @@ Growth attitude     -> Fast learner, consistent builder, team-focused engineer
 ## GitHub Highlights
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=upeka-silva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pasindu Silva GitHub stats" />
-  <img width="390" src="https://streak-stats.demolab.com?user=upeka-silva&theme=tokyonight&hide_border=true" alt="Pasindu Silva GitHub streak" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=upeka-silva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="Pasindu Silva GitHub stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka-silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" height="180" alt="Top languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=upeka-silva&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=upeka-silva&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=upeka-silva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+  </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=upeka-silva&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=upeka-silva&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
   </a>
 </div>
 
 ---
 
-## Contribution Graph
+## Detailed Metrics
+
+<sub>Rendered automatically by the [Generate Metrics](.github/workflows/metrics.yml) GitHub Action using [lowlighter/metrics](https://github.com/lowlighter/metrics).</sub>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-metrics.svg" alt="Detailed GitHub metrics dashboard" />
+</div>
+
+---
+
+## Contribution Snake
+
+<sub>Regenerated every 12 hours by the [Generate Snake](.github/workflows/snake.yml) GitHub Action using [Platane/snk](https://github.com/Platane/snk).</sub>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/upeka-silva/upeka-silva/output/github-contribution-grid-snake.svg" />
   </picture>

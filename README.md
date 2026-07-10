@@ -110,10 +110,10 @@ Growth attitude     -> Fast learner, consistent builder, team-focused engineer
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=upeka-silva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="Pasindu Silva GitHub stats" />
+        <img src="https://github-readme-stats.zohan.tech/api?username=upeka-silva&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="Pasindu Silva GitHub stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeka-silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" height="180" alt="Top languages" />
+        <img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=upeka-silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html" height="180" alt="Top languages" />
       </td>
     </tr>
     <tr>
@@ -126,7 +126,7 @@ Growth attitude     -> Fast learner, consistent builder, team-focused engineer
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=upeka-silva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+    <img src="https://github-trophies.vercel.app/?username=upeka-silva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
   </a>
 </div>
 
